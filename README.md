@@ -1,4 +1,4 @@
-# Aygaz_Goruntu_Isleme_Bitirme_Projesi
+# Aygaz Goruntu Isleme Bitirme Projesi
 
 # 1. Projenin Amacı
 Bu proje, belirli bir veri setindeki görüntüleri kullanarak bir sinir ağı modeli oluşturmayı, modeli farklı veri manipülasyonlarına karşı değerlendirmeyi ve modelin dayanıklılığını test etmeyi amaçlamaktadır. Manipülasyonlar ve renk sabitliği gibi görüntü işleme yöntemlerinin model performansı üzerindeki etkisi analiz edilerek, derin öğrenme modellerinin veri setindeki değişikliklere karşı dayanıklılığı ve doğruluğunu artırmaya yönelik bir çerçeve sunulmaktadır.
