@@ -1,8 +1,8 @@
 # Aygaz Goruntu Isleme Bitirme Projesi
 
-Kaggle profil link: https://www.kaggle.com/mustafaatakl
-
 Kaggle veriseti dosyası link(13GB): https://www.kaggle.com/datasets/rrebirrth/animals-with-attributes-2
+
+Kaggle profil link: https://www.kaggle.com/mustafaatakl
 
 ## 1. Projenin Amacı
 Projenin ana hedefi, belirli bir veri setinde sinir ağı kullanarak görüntü sınıflandırması yapmaktır. Ayrıca, modelin performansını çeşitli veri manipülasyonlarına karşı değerlendirmek ve görüntü işleme yöntemlerinin etkisini analiz etmektir.
