@@ -1,6 +1,7 @@
 # Aygaz Goruntu Isleme Bitirme Projesi
 
 Kaggle profil link: https://www.kaggle.com/mustafaatakl
+
 Kaggle veriseti dosyası link(13GB): https://www.kaggle.com/datasets/rrebirrth/animals-with-attributes-2
 
 ## 1. Projenin Amacı
