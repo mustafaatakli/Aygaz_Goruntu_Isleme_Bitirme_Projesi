@@ -3,6 +3,7 @@
 # 1. Projenin Amacı
 Bu proje, belirli bir veri setindeki görüntüleri kullanarak bir sinir ağı modeli oluşturmayı, modeli farklı veri manipülasyonlarına karşı değerlendirmeyi ve modelin dayanıklılığını test etmeyi amaçlamaktadır. Manipülasyonlar ve renk sabitliği gibi görüntü işleme yöntemlerinin model performansı üzerindeki etkisi analiz edilerek, derin öğrenme modellerinin veri setindeki değişikliklere karşı dayanıklılığı ve doğruluğunu artırmaya yönelik bir çerçeve sunulmaktadır.
 
+Kaggle veriseti dosyası link(13GB): https://www.kaggle.com/datasets/rrebirrth/animals-with-attributes-2
 ---
 
 # 2. Ana İşlem Adımları
@@ -10,6 +11,7 @@ Bu proje, belirli bir veri setindeki görüntüleri kullanarak bir sinir ağı m
 Veri Seti Doğrulama: Belirtilen dizinde veri setinin ve her sınıfa ait alt klasörlerin varlığı kontrol edilir.
 ### Görüntülerin Yüklenmesi ve Ön İşleme:
 Görüntüler belirtilen boyutlarda yeniden boyutlandırılır (128x128 piksel).
+
 Görüntüler 0-1 aralığında normalize edilir.
 
 Etiketleme: Her sınıfa bir indeks atanır ve etiketler one-hot encoding formatına dönüştürülür.
