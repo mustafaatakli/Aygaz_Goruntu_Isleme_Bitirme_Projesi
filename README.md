@@ -25,6 +25,7 @@ Eğitim verisi üzerinde dönüşüm (rotasyon, kaydırma, yatay çevirme vb.) u
 # 3. Modelin Tasarımı
 ## CNN Yapısı: Model, görüntü sınıflandırma için bir Convolutional Neural Network (CNN) ile oluşturulur.
 Konvolüsyon Katmanları: Görüntü özelliklerini öğrenmek için 3 adet konvolüsyon ve maksimum havuzlama bloğu kullanılır.
+
 Yoğun Katmanlar: Özellik haritalarını düzleştirip sınıflandırma yapan 2 yoğun katman bulunur.
 ### Aktivasyon Fonksiyonları:
 Ara katmanlarda ReLU,
